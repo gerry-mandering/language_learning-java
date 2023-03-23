@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6255b618-fa62-4a4b-8819-ec76aceff2f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ch27/src/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch27/src/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch27/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch27/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch27/src/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch27/src/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2NPAZK20nnWcPTJ5S8p1mSavA49" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6255b618-fa62-4a4b-8819-ec76aceff2f2" name="Changes" comment="" />
+      <created>1679555397659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679555397659</updated>
+      <workItem from="1679555398753" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
